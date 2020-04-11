@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFlashCardsGame", "MathFlashCardsGame.csproj", "{ABD7179C-F0FA-4A7F-9475-50D8858B3DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD7179C-F0FA-4A7F-9475-50D8858B3DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD7179C-F0FA-4A7F-9475-50D8858B3DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD7179C-F0FA-4A7F-9475-50D8858B3DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD7179C-F0FA-4A7F-9475-50D8858B3DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B77496-F9C5-40B4-9743-29B5C5EDE0EA}
+	EndGlobalSection
+EndGlobal

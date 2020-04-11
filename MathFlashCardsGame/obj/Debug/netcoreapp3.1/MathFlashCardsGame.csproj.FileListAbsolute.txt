@@ -1,0 +1,11 @@
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\bin\Debug\netcoreapp3.1\MathFlashCardsGame.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\bin\Debug\netcoreapp3.1\MathFlashCardsGame.deps.json
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\bin\Debug\netcoreapp3.1\MathFlashCardsGame.runtimeconfig.json
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\bin\Debug\netcoreapp3.1\MathFlashCardsGame.runtimeconfig.dev.json
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\bin\Debug\netcoreapp3.1\MathFlashCardsGame.dll
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\bin\Debug\netcoreapp3.1\MathFlashCardsGame.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\obj\Debug\netcoreapp3.1\MathFlashCardsGame.AssemblyInfoInputs.cache
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\obj\Debug\netcoreapp3.1\MathFlashCardsGame.AssemblyInfo.cs
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\obj\Debug\netcoreapp3.1\MathFlashCardsGame.dll
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\obj\Debug\netcoreapp3.1\MathFlashCardsGame.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\MathFlashCardsGame\obj\Debug\netcoreapp3.1\MathFlashCardsGame.csprojAssemblyReference.cache
